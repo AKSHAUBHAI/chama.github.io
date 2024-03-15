@@ -1,0 +1,2 @@
+# chama.github.io
+mygame
